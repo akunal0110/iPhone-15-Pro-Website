@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -25,3 +26,32 @@ dist-ssr
 
 # Sentry Config File
 .env.sentry-build-plugin
+=======
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Sentry Config File
+.env.sentry-build-plugin
+>>>>>>> 546614f8e2ccd5afa38b7ac59a5d1d2c8b3ce3b6

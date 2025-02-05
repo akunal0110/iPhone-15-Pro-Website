@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
@@ -794,3 +795,6 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+=======
+
+>>>>>>> 546614f8e2ccd5afa38b7ac59a5d1d2c8b3ce3b6
